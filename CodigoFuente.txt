@@ -5,5 +5,5 @@ Soy Luis Quispe
 Divirtiéndome con Git
 
 - Jorge Jacinto
-
+- Alex Leon
 
