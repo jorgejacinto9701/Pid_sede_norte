@@ -2,5 +2,5 @@ Bienvenido a Git
 
 Soy Luis Quispe
 
-Divirtiendome con Git
+Divirtiéndome con Git
 
